@@ -1,0 +1,371 @@
+[
+    {
+        "id": 1,
+        "name": "Zepto",
+        "price": "$5.99",
+        "deliveryTime": "30 minutes",
+        "city": "Delhi",
+        "area": "Connaught Place",
+        "productName": "Milk"
+    },
+    {
+        "id": 2,
+        "name": "Swiggy Instamart",
+        "price": "$6.49",
+        "deliveryTime": "25 minutes",
+        "city": "Mumbai",
+        "area": "Andheri",
+        "productName": "Bread"
+    },
+    {
+        "id": 3,
+        "name": "Blinkit",
+        "price": "$4.99",
+        "deliveryTime": "20 minutes",
+        "city": "Delhi",
+        "area": "Saket",
+        "productName": "Eggs"
+    },
+    {
+        "id": 4,
+        "name": "BigBasket Now",
+        "price": "$7.99",
+        "deliveryTime": "35 minutes",
+        "city": "Mumbai",
+        "area": "Bandra",
+        "productName": "Butter"
+    },
+    {
+        "id": 5,
+        "name": "Flipkart Minutes",
+        "price": "$6.99",
+        "deliveryTime": "40 minutes",
+        "city": "Delhi",
+        "area": "Karol Bagh",
+        "productName": "Cheese"
+    },
+    {
+        "id": 6,
+        "name": "D Mart Ready",
+        "price": "$5.49",
+        "deliveryTime": "30 minutes",
+        "city": "Mumbai",
+        "area": "Juhu",
+        "productName": "Yogurt"
+    },
+    {
+        "id": 7,
+        "name": "Jio Mart",
+        "price": "$5.79",
+        "deliveryTime": "45 minutes",
+        "city": "Delhi",
+        "area": "Dwarka",
+        "productName": "Paneer"
+    },
+    {
+        "id": 8,
+        "name": "Dunzo",
+        "price": "$8.49",
+        "deliveryTime": "15 minutes",
+        "city": "Mumbai",
+        "area": "Colaba",
+        "productName": "Juice"
+    },
+    {
+        "id": 9,
+        "name": "Pincode",
+        "price": "$6.29",
+        "deliveryTime": "50 minutes",
+        "city": "Delhi",
+        "area": "Lajpat Nagar",
+        "productName": "Fruits"
+    },
+    {
+        "id": 10,
+        "name": "Glovo",
+        "price": "$7.49",
+        "deliveryTime": "30 minutes",
+        "city": "Mumbai",
+        "area": "Powai",
+        "productName": "Vegetables"
+    },
+    {
+        "id": 31,
+        "name": "Blinkit",
+        "price": "$4.49",
+        "deliveryTime": "25 minutes",
+        "city": "Delhi",
+        "area": "Nehru Place",
+        "productName": "Almond Milk 1L"
+    },
+    {
+        "id": 32,
+        "name": "Swiggy Instamart",
+        "price": "$3.99",
+        "deliveryTime": "20 minutes",
+        "city": "Mumbai",
+        "area": "Santacruz",
+        "productName": "Whole Wheat Bread"
+    },
+    {
+        "id": 33,
+        "name": "BigBasket Now",
+        "price": "$6.99",
+        "deliveryTime": "35 minutes",
+        "city": "Delhi",
+        "area": "Greater Kailash",
+        "productName": "Free-Range Eggs (12)"
+    },
+    {
+        "id": 34,
+        "name": "D Mart Ready",
+        "price": "$5.29",
+        "deliveryTime": "28 minutes",
+        "city": "Mumbai",
+        "area": "Malad",
+        "productName": "Unsalted Butter 200g"
+    },
+    {
+        "id": 35,
+        "name": "Jio Mart",
+        "price": "$7.49",
+        "deliveryTime": "40 minutes",
+        "city": "Delhi",
+        "area": "Hauz Khas",
+        "productName": "Cheddar Cheese 250g"
+    },
+    {
+        "id": 36,
+        "name": "Dunzo",
+        "price": "$8.99",
+        "deliveryTime": "18 minutes",
+        "city": "Mumbai",
+        "area": "Lower Parel",
+        "productName": "Greek Yogurt 500g"
+    },
+    {
+        "id": 37,
+        "name": "Zepto",
+        "price": "$4.79",
+        "deliveryTime": "32 minutes",
+        "city": "Delhi",
+        "area": "Pitampura",
+        "productName": "Fresh Orange Juice 1L"
+    },
+    {
+        "id": 38,
+        "name": "Flipkart Minutes",
+        "price": "$6.79",
+        "deliveryTime": "45 minutes",
+        "city": "Mumbai",
+        "area": "Goregaon",
+        "productName": "Organic Paneer 300g"
+    },
+    {
+        "id": 39,
+        "name": "Pincode",
+        "price": "$5.89",
+        "deliveryTime": "55 minutes",
+        "city": "Delhi",
+        "area": "Janakpuri",
+        "productName": "Red Apples 1kg"
+    },
+    {
+        "id": 40,
+        "name": "Glovo",
+        "price": "$7.19",
+        "deliveryTime": "38 minutes",
+        "city": "Mumbai",
+        "area": "Dadar",
+        "productName": "Baby Spinach 200g"
+    },
+    {
+        "id": 41,
+        "name": "Blinkit",
+        "price": "$4.99",
+        "deliveryTime": "22 minutes",
+        "city": "Delhi",
+        "area": "Vasant Kunj",
+        "productName": "Basmati Rice 5kg"
+    },
+    {
+        "id": 42,
+        "name": "Swiggy Instamart",
+        "price": "$8.49",
+        "deliveryTime": "27 minutes",
+        "city": "Mumbai",
+        "area": "Bhandup",
+        "productName": "Quinoa 500g"
+    },
+    {
+        "id": 43,
+        "name": "BigBasket Now",
+        "price": "$5.59",
+        "deliveryTime": "33 minutes",
+        "city": "Delhi",
+        "area": "Rohini",
+        "productName": "Spaghetti 500g"
+    },
+    {
+        "id": 44,
+        "name": "D Mart Ready",
+        "price": "$3.79",
+        "deliveryTime": "19 minutes",
+        "city": "Mumbai",
+        "area": "Kurla",
+        "productName": "Tomato Sauce 400g"
+    },
+    {
+        "id": 45,
+        "name": "Jio Mart",
+        "price": "$6.29",
+        "deliveryTime": "42 minutes",
+        "city": "Delhi",
+        "area": "Rajouri Garden",
+        "productName": "Olive Oil 1L"
+    },
+    {
+        "id": 46,
+        "name": "Dunzo",
+        "price": "$9.99",
+        "deliveryTime": "16 minutes",
+        "city": "Mumbai",
+        "area": "Worli",
+        "productName": "Protein Bars (Pack of 5)"
+    },
+    {
+        "id": 47,
+        "name": "Zepto",
+        "price": "$5.49",
+        "deliveryTime": "29 minutes",
+        "city": "Delhi",
+        "area": "Mayur Vihar",
+        "productName": "Green Tea Bags (25)"
+    },
+    {
+        "id": 48,
+        "name": "Flipkart Minutes",
+        "price": "$7.99",
+        "deliveryTime": "47 minutes",
+        "city": "Mumbai",
+        "area": "Thane",
+        "productName": "Frozen Pizza"
+    },
+    {
+        "id": 49,
+        "name": "Pincode",
+        "price": "$6.89",
+        "deliveryTime": "52 minutes",
+        "city": "Delhi",
+        "area": "Noida",
+        "productName": "Fresh Strawberries 250g"
+    },
+    {
+        "id": 50,
+        "name": "Glovo",
+        "price": "$8.19",
+        "deliveryTime": "34 minutes",
+        "city": "Mumbai",
+        "area": "Borivali",
+        "productName": "Avocados (Pack of 3)"
+    },
+    {
+        "id": 51,
+        "name": "Blinkit",
+        "price": "$4.29",
+        "deliveryTime": "24 minutes",
+        "city": "Delhi",
+        "area": "Laxmi Nagar",
+        "productName": "Oats 1kg"
+    },
+    {
+        "id": 52,
+        "name": "Swiggy Instamart",
+        "price": "$7.29",
+        "deliveryTime": "26 minutes",
+        "city": "Mumbai",
+        "area": "Kandivali",
+        "productName": "Honey 500g"
+    },
+    {
+        "id": 53,
+        "name": "BigBasket Now",
+        "price": "$6.49",
+        "deliveryTime": "37 minutes",
+        "city": "Delhi",
+        "area": "Faridabad",
+        "productName": "Almonds 200g"
+    },
+    {
+        "id": 54,
+        "name": "D Mart Ready",
+        "price": "$5.99",
+        "deliveryTime": "21 minutes",
+        "city": "Mumbai",
+        "area": "Vashi",
+        "productName": "Coconut Oil 500ml"
+    },
+    {
+        "id": 55,
+        "name": "Jio Mart",
+        "price": "$7.89",
+        "deliveryTime": "43 minutes",
+        "city": "Delhi",
+        "area": "Gurgaon",
+        "productName": "Dark Chocolate 150g"
+    },
+    {
+        "id": 56,
+        "name": "Dunzo",
+        "price": "$9.49",
+        "deliveryTime": "17 minutes",
+        "city": "Mumbai",
+        "area": "Navi Mumbai",
+        "productName": "Energy Drink (Pack of 6)"
+    },
+    {
+        "id": 57,
+        "name": "Zepto",
+        "price": "$5.19",
+        "deliveryTime": "31 minutes",
+        "city": "Delhi",
+        "area": "Ghaziabad",
+        "productName": "Granola Bars (Pack of 10)"
+    },
+    {
+        "id": 58,
+        "name": "Flipkart Minutes",
+        "price": "$8.79",
+        "deliveryTime": "48 minutes",
+        "city": "Mumbai",
+        "area": "Mira Road",
+        "productName": "Frozen French Fries"
+    },
+    {
+        "id": 59,
+        "name": "Pincode",
+        "price": "$6.59",
+        "deliveryTime": "53 minutes",
+        "city": "Delhi",
+        "area": "Surajkund",
+        "productName": "Fresh Blueberries 200g"
+    },
+    {
+        "id": 60,
+        "name": "Glovo",
+        "price": "$7.99",
+        "deliveryTime": "36 minutes",
+        "city": "Mumbai",
+        "area": "Dahisar",
+        "productName": "Kiwi (Pack of 4)"
+    },
+    {
+        "id": 180,
+        "name": "Glovo",
+        "price": "$9.49",
+        "deliveryTime": "42 minutes",
+        "city": "Mumbai",
+        "area": "Chembur",
+        "productName": "Whiskey 750ml"
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "id": 1,
+        "provider": "Porter",
+        "fare": 150,
+        "deliveryTime": "30 mins",
+        "rating": 4.5,
+        "availability": true,
+        "source": "Andheri, Mumbai",
+        "destination": "Bandra, Mumbai"
+    },
+    {
+        "id": 2,
+        "provider": "Rapido",
+        "fare": 120,
+        "deliveryTime": "25 mins",
+        "rating": 4.2,
+        "availability": true,
+        "source": "Karol Bagh, Delhi",
+        "destination": "Connaught Place, Delhi"
+    },
+    {
+        "id": 3,
+        "provider": "Uber Courier",
+        "fare": 180,
+        "deliveryTime": "35 mins",
+        "rating": 4.7,
+        "availability": false,
+        "source": "Juhu, Mumbai",
+        "destination": "Powai, Mumbai"
+    },
+    {
+        "id": 4,
+        "provider": "Indrive",
+        "fare": 160,
+        "deliveryTime": "40 mins",
+        "rating": 4.0,
+        "availability": true,
+        "source": "Hauz Khas, Delhi",
+        "destination": "Dwarka, Delhi"
+    },
+    {
+        "id": 5,
+        "provider": "Swiggy Genie",
+        "fare": 140,
+        "deliveryTime": "30 mins",
+        "rating": 4.3,
+        "availability": true,
+        "source": "Goregaon, Mumbai",
+        "destination": "Malad, Mumbai"
+    },
+    {
+        "id": 6,
+        "provider": "Wefast",
+        "fare": 200,
+        "deliveryTime": "50 mins",
+        "rating": 4.1,
+        "availability": true,
+        "source": "Rohini, Delhi",
+        "destination": "Lajpat Nagar, Delhi"
+    },
+    {
+        "id": 7,
+        "provider": "Borzo",
+        "fare": 170,
+        "deliveryTime": "45 mins",
+        "rating": 4.6,
+        "availability": true,
+        "source": "Kandivali, Mumbai",
+        "destination": "Borivali, Mumbai"
+    },
+    {
+        "id": 8,
+        "provider": "Dunzo",
+        "fare": 130,
+        "deliveryTime": "30 mins",
+        "rating": 4.4,
+        "availability": true,
+        "source": "Janakpuri, Delhi",
+        "destination": "Pitampura, Delhi"
+    },
+    {
+        "id": 9,
+        "provider": "Uncle Delivery",
+        "fare": 190,
+        "deliveryTime": "55 mins",
+        "rating": 4.2,
+        "availability": false,
+        "source": "Vile Parle, Mumbai",
+        "destination": "Andheri, Mumbai"
+    },
+    {
+        "id": 10,
+        "provider": "Porter",
+        "fare": 210,
+        "deliveryTime": "60 mins",
+        "rating": 4.8,
+        "availability": true,
+        "source": "Colaba, Mumbai",
+        "destination": "Marine Drive, Mumbai"
+    },
+    {
+        "id": 11,
+        "provider": "Rapido",
+        "fare": 220,
+        "deliveryTime": "65 mins",
+        "rating": 4.9,
+        "availability": true,
+        "source": "Sion, Mumbai",
+        "destination": "Chembur, Mumbai"
+    },
+    {
+        "id": 12,
+        "provider": "Uber Courier",
+        "fare": 230,
+        "deliveryTime": "70 mins",
+        "rating": 4.7,
+        "availability": true,
+        "source": "Vasant Kunj, Delhi",
+        "destination": "Saket, Delhi"
+    },
+    {
+        "id": 13,
+        "provider": "Indrive",
+        "fare": 240,
+        "deliveryTime": "75 mins",
+        "rating": 4.6,
+        "availability": true,
+        "source": "Chandni Chowk, Delhi",
+        "destination": "Rajouri Garden, Delhi"
+    },
+    {
+        "id": 14,
+        "provider": "Swiggy Genie",
+        "fare": 250,
+        "deliveryTime": "80 mins",
+        "rating": 4.5,
+        "availability": true,
+        "source": "Versova, Mumbai",
+        "destination": "Juhu, Mumbai"
+    },
+    {
+        "id": 15,
+        "provider": "Wefast",
+        "fare": 260,
+        "deliveryTime": "85 mins",
+        "rating": 4.4,
+        "availability": true,
+        "source": "Paharganj, Delhi",
+        "destination": "Chandni Chowk, Delhi"
+    },
+    {
+        "id": 16,
+        "provider": "Borzo",
+        "fare": 270,
+        "deliveryTime": "90 mins",
+        "rating": 4.3,
+        "availability": true,
+        "source": "Worli, Mumbai",
+        "destination": "Dadar, Mumbai"
+    },
+    {
+        "id": 17,
+        "provider": "Dunzo",
+        "fare": 280,
+        "deliveryTime": "95 mins",
+        "rating": 4.2,
+        "availability": true,
+        "source": "Lajpat Nagar, Delhi",
+        "destination": "Saket, Delhi"
+    },
+    {
+        "id": 18,
+        "provider": "Uncle Delivery",
+        "fare": 290,
+        "deliveryTime": "100 mins",
+        "rating": 4.1,
+        "availability": true,
+        "source": "Andheri, Mumbai",
+        "destination": "Versova, Mumbai"
+    },
+    {
+        "id": 19,
+        "provider": "Porter",
+        "fare": 300,
+        "deliveryTime": "105 mins",
+        "rating": 4.0,
+        "availability": true,
+        "source": "Connaught Place, Delhi",
+        "destination": "Karol Bagh, Delhi"
+    },
+    {
+        "id": 20,
+        "provider": "Rapido",
+        "fare": 310,
+        "deliveryTime": "110 mins",
+        "rating": 3.9,
+        "availability": true,
+        "source": "Bandra, Mumbai",
+        "destination": "Juhu, Mumbai"
+    },
+    {
+        "id": 21,
+        "provider": "Uber Courier",
+        "fare": 320,
+        "deliveryTime": "115 mins",
+        "rating": 3.8,
+        "availability": true,
+        "source": "Dwarka, Delhi",
+        "destination": "Hauz Khas, Delhi"
+    },
+    {
+        "id": 22,
+        "provider": "Indrive",
+        "fare": 330,
+        "deliveryTime": "120 mins",
+        "rating": 3.7,
+        "availability": true,
+        "source": "Malad, Mumbai",
+        "destination": "Goregaon, Mumbai"
+    },
+    {
+        "id": 23,
+        "provider": "Swiggy Genie",
+        "fare": 340,
+        "deliveryTime": "125 mins",
+        "rating": 3.6,
+        "availability": true,
+        "source": "Rohini, Delhi",
+        "destination": "Pitampura, Delhi"
+    },
+    {
+        "id": 24,
+        "provider": "Wefast",
+        "fare": 350,
+        "deliveryTime": "130 mins",
+        "rating": 3.5,
+        "availability": true,
+        "source": "Kandivali, Mumbai",
+        "destination": "Borivali, Mumbai"
+    },
+    {
+        "id": 25,
+        "provider": "Borzo",
+        "fare": 360,
+        "deliveryTime": "135 mins",
+        "rating": 3.4,
+        "availability": true,
+        "source": "Janakpuri, Delhi",
+        "destination": "Dwarka, Delhi"
+    },
+    {
+        "id": 26,
+        "provider": "Dunzo",
+        "fare": 370,
+        "deliveryTime": "140 mins",
+        "rating": 3.3,
+        "availability": true,
+        "source": "Vile Parle, Mumbai",
+        "destination": "Andheri, Mumbai"
+    },
+    {
+        "id": 27,
+        "provider": "Uncle Delivery",
+        "fare": 380,
+        "deliveryTime": "145 mins",
+        "rating": 3.2,
+        "availability": true,
+        "source": "Colaba, Mumbai",
+        "destination": "Marine Drive, Mumbai"
+    },
+    {
+        "id": 28,
+        "provider": "Porter",
+        "fare": 390,
+        "deliveryTime": "150 mins",
+        "rating": 3.1,
+        "availability": true,
+        "source": "Sion, Mumbai",
+        "destination": "Chembur, Mumbai"
+    },
+    {
+        "id": 29,
+        "provider": "Rapido",
+        "fare": 400,
+        "deliveryTime": "155 mins",
+        "rating": 3.0,
+        "availability": true,
+        "source": "Vasant Kunj, Delhi",
+        "destination": "Saket, Delhi"
+    },
+    {
+        "id": 30,
+        "provider": "Uber Courier",
+        "fare": 410,
+        "deliveryTime": "160 mins",
+        "rating": 2.9,
+        "availability": true,
+        "source": "Chandni Chowk, Delhi",
+        "destination": "Rajouri Garden, Delhi"
+    },
+    {
+        "id": 31,
+        "provider": "Indrive",
+        "fare": 420,
+        "deliveryTime": "165 mins",
+        "rating": 2.8,
+        "availability": true,
+        "source": "Versova, Mumbai",
+        "destination": "Juhu, Mumbai"
+    },
+    {
+        "id": 32,
+        "provider": "Swiggy Genie",
+        "fare": 430,
+        "deliveryTime": "170 mins",
+        "rating": 2.7,
+        "availability": true,
+        "source": "Paharganj, Delhi",
+        "destination": "Chandni Chowk, Delhi"
+    },
+    {
+        "id": 33,
+        "provider": "Wefast",
+        "fare": 440,
+        "deliveryTime": "175 mins",
+        "rating": 2.6,
+        "availability": true,
+        "source": "Worli, Mumbai",
+        "destination": "Dadar, Mumbai"
+    }
+]
